@@ -9,7 +9,7 @@
 - 📫 How to reach me: shuxinli@andrew.cmu.edu / liushuxin0713@gmail.com
 
 <!---
-Shuxin-L/Shuxin-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+evelynsx99/evelynsx99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
